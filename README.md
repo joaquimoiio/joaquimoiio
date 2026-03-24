@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Joaquim!
 
 💻 Desenvolvedor focado em construir soluções eficientes
+
 📚 Sempre estudando e evoluindo minhas habilidades
+
 🎯 Em busca de um portfólio sólido e profissional
 
 ---
