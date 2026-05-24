@@ -64,9 +64,11 @@ TUI + CLI interativo em Bash puro para subir e gerenciar containers Docker de **
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquimoiio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=joaquimoiio&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joaquimoiio&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=joaquimoiio&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/joaquimoiio)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaquimoiio&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
