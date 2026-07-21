@@ -2,7 +2,7 @@
 <h1 align="center">Olá, eu sou o Joaquim 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor backend focado em soluções eficientes — APIs, automações e performance.</em>
+  <em>Desenvolvedor Full Stack focado em soluções eficientes — APIs, automações e performance.</em>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ```yaml
 nome:       Joaquim Dandolini Paes
 empresa:    WMW Systems  (Tubarão/SC)
-função:     Desenvolvedor Backend
+função:     Desenvolvedor Full Stack
 estudando:  Node.js · NestJS · TypeScript
 interesses: [ backend, APIs REST, automações, performance, DevOps ]
 objetivo:   portfólio sólido e profissional
@@ -40,7 +40,7 @@ objetivo:   portfólio sólido e profissional
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,nestjs&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,docker,linux,bash,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,bash,git&theme=dark" />
 </p>
 
 <br>
@@ -52,22 +52,12 @@ objetivo:   portfólio sólido e profissional
   <tr>
     <td width="50%" valign="top">
 
-### 🛡️ [claude-sprint-gates-framework](https://github.com/joaquimoiio/claude-sprint-gates-framework)
-Framework portátil de **Sprints com gates determinísticos** para Claude Code — hooks que travam código sem aprovação humana, bootstrap e exemplo completo.
-
-`Shell` · `Automação` · `DevX`
-
-  </td>
-    <td width="50%" valign="top">
-
 ### 🐳 [docker-db-manager](https://github.com/joaquimoiio/docker-db-manager)
 TUI + CLI interativo em **Bash puro** para subir e gerenciar containers Docker de **PostgreSQL, MySQL, Oracle XE e SQL Server** — sem dependências extras.
 
 `Shell` · `Docker` · `Bancos`
 
   </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
 
 ### 🤝 [ProjetoIntegrador — Back](https://github.com/joaquimoiio/ProjetoIntegradorBack) · [Front](https://github.com/joaquimoiio/ProjetoIntegradorFront)
@@ -76,14 +66,17 @@ API e front desenvolvidos para **integração com a equipe da WMW** — experiê
 `Java` · `Spring Boot` · `REST`
 
   </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
 
-### 📚 [poo-java-estudos](https://github.com/joaquimoiio/poo-java-estudos)
-Plataforma de estudos de **POO com Java e Spring Boot** — trilhas, exercícios por nível e livro de conceitos numa página única.
+### 🔐 [Cofre-para-Estudos](https://github.com/joaquimoiio/Cofre-para-Estudos)
+Sistema de **cofre / gestão financeira** em Java — projeto de estudos com foco em regras de negócio, movimentações e boas práticas de backend.
 
-`JavaScript` · `Java` · `Educação`
+`Java` · `Spring Boot` · `Backend`
 
   </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -93,11 +86,6 @@ Plataforma de estudos de **POO com Java e Spring Boot** — trilhas, exercícios
 ## 📊 Estatísticas
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=joaquimoiio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimoiio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=joaquimoiio&theme=tokyonight&hide_border=true" />
 
