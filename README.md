@@ -50,7 +50,7 @@ objetivo:   portfólio sólido e profissional
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 ### 🐳 [docker-db-manager](https://github.com/joaquimoiio/docker-db-manager)
 TUI + CLI interativo em **Bash puro** para subir e gerenciar containers Docker de **PostgreSQL, MySQL, Oracle XE e SQL Server** — sem dependências extras.
@@ -58,7 +58,7 @@ TUI + CLI interativo em **Bash puro** para subir e gerenciar containers Docker d
 `Shell` · `Docker` · `Bancos`
 
   </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 ### 🤝 [ProjetoIntegrador — Back](https://github.com/joaquimoiio/ProjetoIntegradorBack) · [Front](https://github.com/joaquimoiio/ProjetoIntegradorFront)
 API e front desenvolvidos para **integração com a equipe da WMW** — experiência prática de projeto em ambiente corporativo.
@@ -66,9 +66,7 @@ API e front desenvolvidos para **integração com a equipe da WMW** — experiê
 `Java` · `Spring Boot` · `REST`
 
   </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 ### 🔐 [Cofre-para-Estudos](https://github.com/joaquimoiio/Cofre-para-Estudos)
 Sistema de **cofre / gestão financeira** em Java — projeto de estudos com foco em regras de negócio, movimentações e boas práticas de backend.
@@ -76,7 +74,6 @@ Sistema de **cofre / gestão financeira** em Java — projeto de estudos com foc
 `Java` · `Spring Boot` · `Backend`
 
   </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
