@@ -63,7 +63,7 @@ TUI + CLI interativo em **Bash puro** para subir e gerenciar containers Docker d
 ### 🤝 [git-helper](https://github.com/joaquimoiio/git_helper)
 Gerenciador Git. Interface gráfica para gerenciamento de repositórios, inspirada no TortoiseGit, com foco em Linux e uso empresarial.
 
-`Java` · `Spring Boot` · `REST`
+`Rust` · `React` · `REST`
 
   </td>
     <td width="33%" valign="top">
