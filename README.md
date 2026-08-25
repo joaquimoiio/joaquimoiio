@@ -79,17 +79,6 @@ Sistema de **cofre / gestão financeira** em Java — projeto de estudos com foc
 
 <br>
 
-<!-- ====================== ESTATÍSTICAS ====================== -->
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=joaquimoiio&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaquimoiio&theme=tokyo-night&hide_border=true&area=true&color=7AA2F7&line=7AA2F7&point=FFFFFF" width="95%" />
-
-</div>
-
 <br>
 
 <p align="center"><em>"Construindo, quebrando e aprendendo — todo dia um pouco."</em></p>
