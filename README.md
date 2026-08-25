@@ -60,8 +60,8 @@ TUI + CLI interativo em **Bash puro** para subir e gerenciar containers Docker d
   </td>
     <td width="33%" valign="top">
 
-### 🤝 [ProjetoIntegrador — Back](https://github.com/joaquimoiio/ProjetoIntegradorBack) · [Front](https://github.com/joaquimoiio/ProjetoIntegradorFront)
-API e front desenvolvidos para **integração com a equipe da WMW** — experiência prática de projeto em ambiente corporativo.
+### 🤝 [git-helper](https://github.com/joaquimoiio/git_helper)
+Gerenciador Git. Interface gráfica para gerenciamento de repositórios, inspirada no TortoiseGit, com foco em Linux e uso empresarial.
 
 `Java` · `Spring Boot` · `REST`
 
